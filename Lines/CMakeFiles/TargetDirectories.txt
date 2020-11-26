@@ -1,0 +1,3 @@
+/home/devil/Desktop/CGAL/CGAL_2_B170305CS/CMakeFiles/rebuild_cache.dir
+/home/devil/Desktop/CGAL/CGAL_2_B170305CS/CMakeFiles/CGAL_2.dir
+/home/devil/Desktop/CGAL/CGAL_2_B170305CS/CMakeFiles/edit_cache.dir
